@@ -1,0 +1,11 @@
+item_id,sku,product_name,category,lot_number,storage_zone,bin_location,expected_quantity,counted_quantity,expiration_date,last_count_date,counter_name,discrepancy_reason,unit_cost
+1,AB-1001,Primary Antibody A,Antibody,LOT-A101,Freezer A,FA-BIN-01,25,25,2026-12-15,2026-06-07,Dustin,Accurate,145.50
+2,RG-2034,Buffer Solution B,Buffer,LOT-B204,Fridge A,FR-BIN-03,40,38,2026-10-20,2026-06-07,Dustin,Under count,22.75
+3,KT-5521,Assay Kit C,Kit,LOT-K331,Cold Room,CR-BIN-02,15,17,2026-09-30,2026-06-07,Dustin,Over count,310.00
+4,CN-7781,Sample Tube Pack,Consumable,LOT-C882,Ambient Shelf,AS-BIN-04,100,96,2027-01-12,2026-06-07,Dustin,Under count,8.25
+5,AB-2210,Secondary Antibody B,Antibody,LOT-A552,Freezer B,FB-BIN-07,18,18,2026-11-02,2026-06-07,Dustin,Accurate,132.00
+6,RG-3312,Wash Buffer C,Buffer,LOT-B719,Fridge A,FR-BIN-01,55,60,2026-08-25,2026-06-07,Dustin,Over count,19.40
+7,SM-4430,Sample Tube 2ml,Sample Tube,LOT-S120,Ambient Shelf,AS-BIN-02,200,200,2027-03-01,2026-06-07,Dustin,Accurate,3.10
+8,KT-9002,ELISA Kit D,Kit,LOT-K901,Cold Room,CR-BIN-05,12,10,2026-07-15,2026-06-07,Dustin,Under count,420.00
+9,RG-1115,Blocking Reagent,Reagent,LOT-R330,Fridge A,FR-BIN-04,30,29,2026-09-05,2026-06-07,Dustin,Bin transfer error,48.75
+10,AB-7719,Control Antibody C,Antibody,LOT-A777,Freezer A,FA-BIN-06,22,0,2026-12-20,2026-06-07,Dustin,Missing item,160.00
